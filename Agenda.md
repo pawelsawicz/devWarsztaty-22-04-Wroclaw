@@ -5,7 +5,7 @@
     * Czym jest .NET Core
     * Roznice pomiedzy .NET Standard a .NET Core
     * ASP.NET Core
-    * Testowania
+    * Testowanie
     * Bazy danych
 3. Automatyzacja i skryptowanie
     * Gdzie warto automatyzowac prace
